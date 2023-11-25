@@ -1,5 +1,5 @@
 # The Optimized Configuration
-# Do NOT edit unless you know exactly what you are doing22
+# Do NOT edit unless you know exactly what you are doing222222222
 
 CONFIG_IDF_TARGET_ESP8266=y
 
