@@ -102,6 +102,7 @@ static void initialise_wifi(void)
 
 void app_main()
 {
+      printf("Hello world\r\n");
 #ifdef CONFIG_IDF_TARGET_ESP32
     /**
      * A workaround for ota compatibility issue, description as the following:
